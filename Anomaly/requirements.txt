@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+numpy 
+joblib
+PCA
+DBSCAN
+plotly.express as px
